@@ -65,6 +65,7 @@
 ### BNPB
 * http://geoservice.bnpb.go.id:8399/arcgis/rest/services/
 * http://geoservice2.bnpb.go.id:8399/arcgis/rest/services/
+* http://inarisk.bnpb.go.id:6080/arcgis/rest/services
 
 ### Kementerian Kelautan dan Perikanan
 * http://www.ppk-kp3k.kkp.go.id/ArcGIS/rest/services
@@ -73,6 +74,7 @@
 ### Kementerian Perhubungan
 * http://gis.dephub.go.id/ArcGIS/rest/services
 * http://gis2.dephub.go.id/ArcGIS/rest/services/
+* https://portal-gis.dephub.go.id/server/rest/services
 
 ### Kementerian PU 2 (SIGI-PU)
 * http://sigi.pu.go.id/arcgis/rest/services
