@@ -102,6 +102,7 @@
 * http://geoportal.esdm.go.id/arcgis/rest/services
 * http://gisportal.esdm.go.id (Geonode)
 * http://203.189.89.41:6080/arcgis/rest/services
+* https://gis1.minerba.esdm.go.id:6443/arcgis/rest/
 
 ### Kemenhub
 * http://gis.dephub.go.id/arcgis/rest/services
